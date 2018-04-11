@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"ขอให้โชคดี\nBy D373rm1n3D","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"โล่ห่วยๆ","note":"","params":[0,0,0,5,0,0,0,0],"price":300},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"หมวกขาดๆ","note":"","params":[0,0,0,5,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"เสื้อขาดๆ","note":"","params":[0,0,0,5,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"แหวนของเล่น","note":"","params":[6,6,5,1,10,1,2,5],"price":300},
+{"id":5,"atypeId":5,"description":"ดีกว่าเดิมแล้วนะ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"โล่ +10%","note":"","params":[1,1,1,10,1,1,1,1],"price":330},
+{"id":6,"atypeId":5,"description":"ดีกว่าเดิมแล้วนะ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"โล่ +15%","note":"","params":[2,2,2,12,2,2,2,2],"price":330},
+{"id":7,"atypeId":1,"description":"+10% จากของเดิม","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"หมวกเก่าๆ","note":"","params":[1,1,1,10,1,1,1,1],"price":330},
+{"id":8,"atypeId":1,"description":"ดีกว่าเดิม 10%","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"เกราะพังๆ","note":"","params":[1,1,1,10,1,1,1,1],"price":330},
+{"id":9,"atypeId":1,"description":"9999","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":22,"dataId":2,"value":10}],"iconIndex":137,"name":"Admin Suit","note":"","params":[5000,5000,500,500,500,500,500,500],"price":0},
+{"id":10,"atypeId":1,"description":"9999","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Admin Hat","note":"","params":[5000,5000,500,500,500,500,500,500],"price":0},
+{"id":11,"atypeId":5,"description":"9999","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":22,"dataId":2,"value":10}],"iconIndex":128,"name":"Admin Shild","note":"","params":[5000,5000,500,500,500,500,500,500],"price":0},
+{"id":12,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":13,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":14,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":15,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":16,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

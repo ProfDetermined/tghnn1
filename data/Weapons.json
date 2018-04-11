@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":1,"description":"ขอให้โชคดีกับดาบกากนี้นะ 5555+\nBy D373rm1n3D","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"ดาบกากๆ","note":"","params":[0,0,5,-10,0,0,-3,-50],"price":500,"wtypeId":2},
+{"id":2,"animationId":1,"description":"ขอให้โชคดี\nBy D373rm1n3D","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"ขวานที่บิ่น","note":"","params":[0,0,5,0,0,0,-20,-5],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"คทาที่ห่วยแตก","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"ธนูพังๆ","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":91,"description":"","etypeId":1,"traits":[{"code":31,"dataId":7,"value":0},{"code":22,"dataId":0,"value":1},{"code":32,"dataId":8,"value":0.5}],"iconIndex":297,"name":"ดาบขนนก","note":"","params":[5,5,15,6,1,5,2,6],"price":0,"wtypeId":2},
+{"id":6,"animationId":101,"description":"ดรอปจากแบล็คเมจิกเชียนนะ","etypeId":1,"traits":[{"code":31,"dataId":9,"value":0},{"code":22,"dataId":0,"value":1.5},{"code":22,"dataId":2,"value":0.5},{"code":32,"dataId":5,"value":0.3}],"iconIndex":101,"name":"คฑา แบล็ค เมจิกเชี่ยน","note":"","params":[635,520,50,20,150,125,6,50],"price":0,"wtypeId":6},
+{"id":7,"animationId":1,"description":"ดีกว่าเดิมแล้วนะ","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"ดาบ +10%","note":"","params":[0,0,6,-9,0,0,-2,-45],"price":550,"wtypeId":2},
+{"id":8,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":10},{"code":22,"dataId":0,"value":10},{"code":22,"dataId":6,"value":10}],"iconIndex":112,"name":"Admin Sword","note":"","params":[5000,5000,500,500,500,500,500,500],"price":0,"wtypeId":2},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
