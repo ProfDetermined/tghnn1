@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "xyz.rtdeterk.TGHNN"
+        versionCode="10" 
+        version   = "1.0.0">
+    <!-- versionCode is optional and Android only -->
+    <name>TGHNN - Beta</name>
+    <description>
+        This Game Has no name.
+    </description>
+    <author href="http://rtdeterk.xyz" email="info@rtdeterk.xyz">
+        RTDeterK
+    </author>
+</widget>
